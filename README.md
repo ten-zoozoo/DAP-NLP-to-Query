@@ -1,4 +1,4 @@
-# DAP (Data Access Platform) Backend
+# DAP (Data Access Platform)
 
 의료 도메인 사용자가 **자연어로 질문하면 Oracle 의료 DB(MIMIC 기반)를 안전하게 조회**할 수 있도록, LLM이 SQL을 생성하고 결과를 UI로 제공하는 데이터 접근 플랫폼입니다.
 
